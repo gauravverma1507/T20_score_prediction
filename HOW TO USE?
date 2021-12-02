@@ -1,0 +1,8 @@
+====STEPS====
+
+1)JUST DOWNLOAD FILES 
+2)RUN t20 data extraction,t20 feature extracrtion IN YOUR JUPYTER NOTEBOOK so that pkl files will be loaded
+3)RUN main.py IN THE PYCHARM
+4)IN PYCHARM COMMAND FOR : pip install StreamLit
+                       : StreamLit run main.py
+==ALL SET==
